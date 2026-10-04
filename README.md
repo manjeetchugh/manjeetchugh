@@ -48,6 +48,26 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=manjeetchugh&show_icons=true&theme=dark" height="165" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetchugh&layout=compact&theme=dark" height="165" alt="Top Languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=manjeetchugh&theme=dark&mode=weekly" alt="GitHub Streak" /> </p>
 
 ---
+⚡ Activity Profile
+
+    ┌─[ ACTIVITY@GITHUB ]─[ ~/commits ]
+    │
+    │  > ACTIVITY ANALYSIS
+    │
+    │  📅 MOST ACTIVE DAY
+    │  └─ Loading...
+    │
+    │  ⏰ PEAK COMMIT TIME
+    │  └─ Loading...
+    │
+    │  🌙 MOST ACTIVE PERIOD
+    │  └─ Loading...
+    │
+    │  📊 TOTAL COMMITS
+    │  └─ Loading...
+    │
+    └─[ ANALYSIS COMPLETE ]
+  ---
 
 ### 🐍 My Contribution Graph
 
