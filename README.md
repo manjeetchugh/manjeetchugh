@@ -21,15 +21,13 @@
 
 * 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (AI & IoT)**
 * 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
-* 🌱 Currently learning **C and Python**
+* 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding" />
 * 💻 Exploring programming, software development and web technologies
 * 🔬 Curious about the intersection of electronics, AI and intelligent systems
 * 🚀 Focused on continuous learning, experimentation and improving my technical skills
 * 🧠 I enjoy understanding how things work and finding ways to make them better
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding" />
-</p>
+
 
 ---
 
