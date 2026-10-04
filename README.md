@@ -11,8 +11,7 @@
     alt="Profile Views"
   />
 </a>
-  <a href="https://github.com/manjeetchugh?tab=followers">
-    <img src="https://img.shields.io/github/followers/manjeetchugh?label=Followers&style=flat&color=00ff41" alt="GitHub followers" />
+  
   </a>
 </p>
 
