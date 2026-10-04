@@ -12,9 +12,7 @@
   />
 </a>
   
-  </a><a href="https://github.com/manjeetchugh?tab=followers">
-    <img src="https://img.shields.io/github/followers/manjeetchugh?label=Followers&style=flat&color=00ff41" alt="GitHub followers" />
-</p>
+  
 ---
 <p align ="center">
   <a href="https://github.com/manjeetchugh?tab=followers">
