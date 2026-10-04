@@ -1,4 +1,4 @@
-# Hi there!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! I am Manjeet Chugh  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+ECE+(AI+%26+IoT)+Student;Exploring+Artificial+Intelligence;Learning+C+%26+Python;Interested+in+Technology+%26+Innovation" alt="Typing SVG" />
