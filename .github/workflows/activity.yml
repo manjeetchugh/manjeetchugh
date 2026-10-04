@@ -1,9 +1,9 @@
 name: Update Activity Profile
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "30 0 * * *"
-  workflow_dispatch:
 
 permissions:
   contents: write
@@ -22,15 +22,13 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: |
-          pip install requests
+        run: pip install requests
 
       - name: Generate activity profile
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          python .github/scripts/activity.py
+        run: python .github/scripts/activity.py
 
       - name: Commit changes
         run: |
