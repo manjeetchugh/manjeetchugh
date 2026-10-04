@@ -5,9 +5,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/manjeetchugh">
-    <img src="https://komarev.com/ghpvc/?username=manjeetchugh&label=Profile%20Views&color=00ff41&style=flat" alt="Profile views" />
-  </a>
+ <a href="https://github.com/manjeetchugh">
+  <img
+    src="https://komarev.com/ghpvc/?username=manjeetchugh&label=Profile+Views&color=00ff41&style=flat"
+    alt="Profile Views"
+  />
+</a>
   <a href="https://github.com/manjeetchugh?tab=followers">
     <img src="https://img.shields.io/github/followers/manjeetchugh?label=Followers&style=flat&color=00ff41" alt="GitHub followers" />
   </a>
