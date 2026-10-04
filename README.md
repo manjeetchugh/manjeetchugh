@@ -26,7 +26,8 @@
 * 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 * 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Coding" />
 * 🧠 I enjoy understanding how things work and finding ways to make them better
-* 
+* ⛳ We can connect to play some games of Chess♟️
+* Fun fact:L'homme c'est rien, l'oeuvre c'est tout
 
 
 
