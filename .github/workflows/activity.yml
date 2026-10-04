@@ -1,12 +1,16 @@
-—– BEGIN activity.yml —–
-
 name: Update Activity Profile
 
-on: schedule: - cron: “30 0 * * *” workflow_dispatch:
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
 
-permissions: contents: write
+permissions:
+  contents: write
 
-jobs: activity: runs-on: ubuntu-latest
+jobs:
+  activity:
+    runs-on: ubuntu-latest
 
     steps:
       - name: Checkout
@@ -41,5 +45,3 @@ jobs: activity: runs-on: ubuntu-latest
             git commit -m "chore: update activity profile"
             git push
           fi
-
-—– END activity.yml —–
