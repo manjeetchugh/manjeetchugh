@@ -20,11 +20,8 @@ function generateProgressBar() {
 const readme = `\
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh
 
-<p align="center">
-  <a href="https://github.com/${username}" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+
+  <a href="linkedin.com/manjeetchugh" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
   </a>
 </p>
