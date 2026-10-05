@@ -57,9 +57,10 @@
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=manjeetchugh"
+    src="./profile/streak.svg"
     alt="GitHub Streak"
   />
 </p>
