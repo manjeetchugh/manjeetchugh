@@ -30,8 +30,11 @@ const readme = `\
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+ECE+(AI+%26+IoT)+Student;Exploring+Artificial+Intelligence;Learning+C+%26+Python;Curious+About+Technology" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding animation" />
