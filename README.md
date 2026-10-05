@@ -14,7 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding animation" />
+  <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 
 ---
