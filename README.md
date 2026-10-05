@@ -59,7 +59,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=manjeetchugh&background=00000000&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"
+    src="https://streak-stats.demolab.com/?user=manjeetchugh"
     alt="GitHub Streak"
   />
 </p>
