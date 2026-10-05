@@ -43,7 +43,7 @@ const readme = `\
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 - 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 - 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
-- ♟️ We can connect to play some games of chess <img src="https://giphy.com/gifs/chess-chessboard-ms3yqSf67KQjnXm6kN" width="400" alt="Spinning Chess Board" />
+- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="40" alt="Spinning Chess Board" />
 
 
 
