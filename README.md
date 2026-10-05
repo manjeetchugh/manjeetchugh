@@ -1,16 +1,9 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet chugh 
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh
 
-<p align="center">
-  <a href="https://github.com/manjeetchugh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="30" />
-  </a>
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
+
+  <a href="linkedin.com/manjeetchugh" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=B.Tech+ECE+(AI+%26+IoT)+Student;Exploring+Artificial+Intelligence;Learning+C+%26+Python;Curious+About+Technology" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,21 +12,23 @@
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Coding animation" />
+</p>
+
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
 
 - 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (AI & IoT)**
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
-- 🌱 Currently learning **C and Python**
-- 💻 Exploring programming, software development and web technologies
-- 🔬 Interested in the intersection of electronics, AI and intelligent systems
-- 🚀 Focused on continuous learning, experimentation and problem-solving
-- 🧠 Always curious about how things work and how technology can be improved
+- 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
+- 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
+- ♟️ We can connect to play some games of chess
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
-</p>
+
+
 
 ---
 
@@ -70,7 +65,7 @@
 
 ### ⏳ Year Progress
 
-**{ ██████████████████████▁▁▁▁▁▁▁▁ } 75.93%**
+**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.06%**
 
 As of ⏰ 5-Oct-2026
 
@@ -95,6 +90,8 @@ As of ⏰ 5-Oct-2026
 - 📡 Electronics and the Internet of Things
 - 🌐 Web technologies and software development
 - 🌍 Open-source projects and developer tools
+- 🧠 Always curious about how things work and how technology can be improved
+
 
 ---
 
@@ -102,7 +99,7 @@ As of ⏰ 5-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Less than 10% of the code has to do with the ostensible purpose of the system; the rest deals with input-output, data validation, data structure maintenance, and other housekeeping.”— Mary Shaw   </i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
