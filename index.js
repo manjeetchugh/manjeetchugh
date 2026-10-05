@@ -43,14 +43,12 @@ const readme = `\
 
 - 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (AI & IoT)**
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
-- 🌱 Currently learning **C and Python**
+- 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 - 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
 - ♟️ We can connect to play some games of chess
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
-</p>
+
 
 ---
 
