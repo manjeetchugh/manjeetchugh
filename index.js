@@ -45,7 +45,8 @@ const readme = `\
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 - 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 - 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
-- ♟️ We can connect to play some games of chess
+- ♟️ We can connect to play some games of chess <img src="https://giphy.com/gifs/chess-chessboard-ms3yqSf67KQjnXm6kN" width="400" alt="Spinning Chess Board" />
+
 
 
 
@@ -101,9 +102,7 @@ As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "
 
 ### 💡 Currently Exploring
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation" />
-</p>
+
 
 - 🐍 C and Python programming
 - 🤖 Artificial Intelligence and Machine Learning
