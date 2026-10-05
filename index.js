@@ -44,10 +44,9 @@ const readme = `\
 - 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (AI & IoT)**
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 - 🌱 Currently learning **C and Python**
-- 💻 Exploring programming, software development and web technologies
-- 🔬 Interested in the intersection of electronics, AI and intelligent systems
-- 🚀 Focused on continuous learning, experimentation and problem-solving
-- 🧠 Always curious about how things work and how technology can be improved
+- 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
+- ♟️ We can connect to play some games of chess
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
@@ -113,6 +112,8 @@ As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "
 - 📡 Electronics and the Internet of Things
 - 🌐 Web technologies and software development
 - 🌍 Open-source projects and developer tools
+- 🧠 Always curious about how things work and how technology can be improved
+
 
 ---
 
