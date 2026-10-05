@@ -41,18 +41,28 @@
 
 ---
 
+
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeetchugh&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetchugh&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=manjeetchugh&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true"
+    height="165"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetchugh&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true"
+    height="165"
+    alt="Top Languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=manjeetchugh&theme=chartreuse-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img
+    src="https://streak-stats.demolab.com/?user=manjeetchugh&background=00000000&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9"
+    alt="GitHub Streak"
+  />
 </p>
-
----
 
 ### 🦉 My Coding Activity
 
