@@ -25,10 +25,23 @@ const readme = `\
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
+<br>
 
-
-
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet-light.svg"
+  >
+  <img
+    alt="my github pet"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet.svg"
+    width="100%"
+  >
+</picture>
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
