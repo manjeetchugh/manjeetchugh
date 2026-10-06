@@ -23,7 +23,7 @@
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 - 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 - 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
-- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="25" alt="Spinning Chess Board" />
+- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="35" alt="Spinning Chess Board" />
 
 
 
@@ -41,29 +41,18 @@
 
 ---
 
-
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=manjeetchugh&show_icons=true&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true"
-    height="165"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetchugh&layout=compact&bg_color=00000000&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true"
-    height="165"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=manjeetchugh&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetchugh&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Top Languages" />
 </p>
-
 
 <p align="center">
-  <img
-    src="./profile/streak.svg"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=manjeetchugh&theme=chartreuse-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </p>
+
+---
 
 ### 🦉 My Coding Activity
 
@@ -75,9 +64,9 @@
 
 ### ⏳ Year Progress
 
-**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.06%**
+**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.21%**
 
-As of ⏰ 5-Oct-2026
+As of ⏰ 6-Oct-2026
 
 ---
 
