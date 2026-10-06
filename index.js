@@ -18,13 +18,7 @@ function generateProgressBar() {
 }
 
 const readme = `\
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh
-
-<p align="center">
-  <a href="linkedin.com/manjeetchugh" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
-  </a>
-</p>
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh  <a href="linkedin.com/manjeetchugh" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" /></a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
@@ -63,13 +57,40 @@ const readme = `\
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
-<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="200" alt="Github Stats"/>
-   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=manjeetchugh&layout=donut-vertical&langs_count=4&theme=transparent" height="300" alt="Programming Languages"/>
-</p>
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly" height="200" alt="Stats"/>
-</p>
-
+<table cellspacing="0">
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"
+        alt="GitHub Stats"
+      />
+    </td>
+    <td align="center" valign="middle" rowspan="2">
+      <img
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=manjeetchugh&langs_count=4&theme=transparent"
+        alt="Top Programming Languages"
+      />
+    </td>
+    <td align="center" valign="middle" rowspan="2">
+      <img src="./output/bonsai-growth.gif" width="200" alt="My git-bonsai" />
+      <br />
+      <a href="https://github.com/egorthinks/git-bonsai">
+        <img
+          src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f"
+          alt="Grown with git-bonsai"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle">
+      <img
+        src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly"
+        alt="GitHub Streak Stats"
+      />
+    </td>
+  </tr>
+</table>
 ---
 
 ### ⏳ Year Progress
