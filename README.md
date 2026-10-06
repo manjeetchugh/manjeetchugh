@@ -5,6 +5,24 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/95b7e3762cdf96f17299fee6b86916e92a65a1cc/dist/pet.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/95b7e3762cdf96f17299fee6b86916e92a65a1cc/dist/pet-light.svg"
+  >
+  <img
+    alt="my github pet"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/95b7e3762cdf96f17299fee6b86916e92a65a1cc/dist/pet.svg"
+    width="100%"
+  >
+</picture>
+
 
 
 
