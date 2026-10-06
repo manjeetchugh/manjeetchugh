@@ -20,7 +20,7 @@ function generateProgressBar() {
 const readme = `\
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh
 
-<p align:center>
+<p align="center">
   <a href="linkedin.com/manjeetchugh" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
   </a>
@@ -63,7 +63,7 @@ const readme = `\
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
-<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="Github Stats"/>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="200" alt="Github Stats"/>
 </p>
 ---
 
