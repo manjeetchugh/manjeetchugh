@@ -1,0 +1,51 @@
+name: Update Profile Views Badge
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-badge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download profile views badge
+        run: |
+          mkdir -p assets
+
+          if curl -fL \
+            "https://komarev.com/ghpvc/?username=manjeetchugh&style=flat-square&color=blue&label=Profile+Views" \
+            -o assets/profile-views-new.svg; then
+
+            mv assets/profile-views-new.svg assets/profile-views.svg
+            echo "Profile views badge updated successfully."
+
+          else
+
+            echo "Komarev is unavailable."
+            echo "Keeping the previous profile views badge."
+
+            rm -f assets/profile-views-new.svg
+
+          fi
+
+      - name: Commit updated badge
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/profile-views.svg
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update profile views badge"
+            git push
+          fi
