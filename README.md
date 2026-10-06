@@ -38,46 +38,45 @@
 ---
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
-<table cellspacing="0">
-  <tr>
-    <td align="center" valign="middle">
+<table cellspacing="0"> <tr> <td align="center" valign="middle">
+  <p>
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"
+      alt="GitHub Stats"
+    />
+
+  <br>
+
+  <img
+      src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly"
+      alt="GitHub Streak Stats"
+    />
+  </p>
+
+</td>
+
+<td align="center" valign="middle">
+
+  <p>
+    <img
+      src="./output/bonsai-growth.gif"
+      width="300"
+      alt="My git-bonsai"
+    />
+
+  <br>
+
+  <a href="https://github.com/egorthinks/git-bonsai">
       <img
-        src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"
-        alt="GitHub Stats"
+        src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f"
+        alt="Grown with git-bonsai"
       />
-    </td>
-    <td align="center" valign="middle" rowspan="2">
-      <img
-        src="https://github-stats-extended.vercel.app/api/top-langs?username=manjeetchugh&langs_count=4&theme=transparent"
-        alt="Top Programming Languages"
-      />
-    </td>
-    <td align="center" valign="middle" rowspan="2">
-      <img src="./output/bonsai-growth.gif" width="200" alt="My git-bonsai" />
-      <br />
-      <a href="https://github.com/egorthinks/git-bonsai">
-        <img
-          src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f"
-          alt="Grown with git-bonsai"
-        />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="middle">
-      <img
-        src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly"
-        alt="GitHub Streak Stats"
-      />
-    </td>
-  </tr>
-</table>
+    </a>
+  </p>
 
+</td>
 
-
-
----
-
+</tr> </table>
 ### ⏳ Year Progress
 
 **{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.21%**     
