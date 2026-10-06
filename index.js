@@ -63,22 +63,9 @@ const readme = `\
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=${username}&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=${username}&layout=compact&theme=chartreuse-dark&hide_border=true" height="165" alt="Top Languages" />
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="Github Stats"/>
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=${username}&theme=chartreuse-dark&hide_border=true&mode=weekly" alt="GitHub Streak" />
-</p>
-
 ---
-
-### 🦉 My Coding Activity
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
 ---
 
