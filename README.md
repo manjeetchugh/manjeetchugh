@@ -1,6 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh
 
-<p align:center>
+<p align="center">
   <a href="linkedin.com/manjeetchugh" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
   </a>
