@@ -17,4 +17,4 @@ jobs:
           username: manjeetchugh       # change me
           timezone-offset-minutes: "330" # your UTC offset in minutes
           display-name: "Manjeet"
-          pet-name: "Mori"
+          pet-name: "Typo"
