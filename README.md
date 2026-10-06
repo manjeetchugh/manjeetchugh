@@ -43,9 +43,21 @@
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
-
 <p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="200" alt="Github Stats"/>
+   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=manjeetchugh&layout=donut-vertical&langs_count=4&theme=transparent" height="300" alt="Programming Languages"/>
 </p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly" height="200" alt="Stats"/>
+</p>
+
+
+
+
+
+
+
+
+
 ---
 
 ### ⏳ Year Progress
