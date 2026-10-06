@@ -44,7 +44,7 @@
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
 
 
-<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="165" alt="Github Stats"/>
+<p align="center"><img src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent" height="200" alt="Github Stats"/>
 </p>
 ---
 
