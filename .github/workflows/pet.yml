@@ -15,4 +15,7 @@ jobs:
       - uses: prsdx/github-pet@v1
         with:
           username: manjeetchugh        # change me
-          timezone-offset-minutes: "330" # your UTC offset in minutes
+          timezone-offset-minutes: "330" # UTC 5:30
+           display-name: "Manjeet"
+          pet-name: "neko"
+          attribution: "false"
