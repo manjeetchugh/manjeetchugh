@@ -1,8 +1,6 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh  <a href="linkedin.com/manjeetchugh" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" /></a>
 
-<p align="center">
- 
-</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat-square&color=blue&label=Profile+Views" alt="Profile Views" />
@@ -96,9 +94,6 @@ As of ⏰ 6-Oct-2026
 ---
 
 ### 💡 Currently Exploring
-<table>
-  <tr>
-    <td valign="top">
 
 - 🐍 C and Python programming
 - 🤖 Artificial Intelligence and Machine Learning
@@ -107,12 +102,6 @@ As of ⏰ 6-Oct-2026
 - 🌍 Open-source projects and developer tools
 - 🧠 Always curious about how things work and how technology can be improved
 
-    </td>
-    <td valign="top">
-      <img src="output/bonsai-growth.gif" width="200" alt="my git-bonsai" />
-    </td>
-  </tr>
-</table>
 
 
 
