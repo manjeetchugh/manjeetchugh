@@ -6,11 +6,7 @@
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/main/dist/pet.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/main/dist/pet-light.svg">
-  <img alt="my github pet" src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/main/dist/pet.svg" width="100%">
-</picture>
+
 
 
 
