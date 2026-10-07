@@ -1,7 +1,8 @@
 name: My YourTomo cat
+
 on:
   schedule:
-    - cron: '23 */6 * * *'   # every 6h - pick your own minute
+    - cron: '23 */6 * * *'
   workflow_dispatch:
 
 permissions:
@@ -10,11 +11,24 @@ permissions:
 jobs:
   pet:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
+
+      - name: Debug timezone
+        run: |
+          echo "Runner UTC:"
+          date -u
+
+          echo "Runner local:"
+          date
+
+          echo "Expected India time:"
+          TZ=Asia/Kolkata date
+
       - uses: prsdx/github-pet@v1
         with:
-          username: manjeetchugh       # change me
-          timezone-offset-minutes: "330" # your UTC offset in minutes
+          username: manjeetchugh
+          timezone-offset-minutes: "330"
           display-name: "Manjeet"
           pet-name: "Typo"
