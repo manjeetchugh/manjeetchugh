@@ -47,6 +47,17 @@
 - 🧠 Always curious about how things work and how technology can be improved
 
 
+<!--
+ ### 🚀 Featured Projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [Project name](REPO_LINK) | Briefly explain what it does and what you learned. | C, Python |
+| [Project name](REPO_LINK) | Describe a project, experiment, or class assignment. | Python, IoT |
+| [Project name](REPO_LINK) | Add a short description and a demo link if you have one. | HTML, CSS, JavaScript |
+-->
+---
+
 
 
 <p align="center">
