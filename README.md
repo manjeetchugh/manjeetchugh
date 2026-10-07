@@ -22,7 +22,6 @@
     width="100%"
   >
 </picture>
-
 ---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
@@ -31,7 +30,7 @@
 - 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
 - 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 - 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
-- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="25" alt="Spinning Chess Board" />
+- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="35" alt="Spinning Chess Board" />
 
 
 
@@ -89,11 +88,14 @@
 </td>
 
 </tr> </table>
+---
+
 ### ⏳ Year Progress
 
-**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.21%**     
-As of ⏰ 6-Oct-2026
-   
+**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.48%**
+
+As of ⏰ 7-Oct-2026
+
 ---
 
 ### 🐍 My Contribution Graph
@@ -106,6 +108,8 @@ As of ⏰ 6-Oct-2026
 
 ### 💡 Currently Exploring
 
+
+
 - 🐍 C and Python programming
 - 🤖 Artificial Intelligence and Machine Learning
 - 📡 Electronics and the Internet of Things
@@ -114,15 +118,13 @@ As of ⏰ 6-Oct-2026
 - 🧠 Always curious about how things work and how technology can be improved
 
 
-
-
 ---
 
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" /> A Quote to Think About
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
