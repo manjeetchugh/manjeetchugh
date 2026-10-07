@@ -13,7 +13,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Debug timezone
         run: |
@@ -26,9 +27,28 @@ jobs:
           echo "Expected India time:"
           TZ=Asia/Kolkata date
 
-      - uses: prsdx/github-pet@v1
+      - name: Generate YourTomo pet
+        uses: prsdx/github-pet@v1
         with:
           username: manjeetchugh
           timezone-offset-minutes: "330"
           display-name: "Manjeet"
           pet-name: "Typo"
+
+      - name: Check generated greeting
+        run: |
+          echo "Generated SVG greeting:"
+          grep -o -i -E '.{0,100}(good morning|good afternoon|good evening|up late).{0,100}' dist/pet.svg || true
+
+      - name: Check generated files
+        run: |
+          echo "Generated files:"
+          git status --short
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "Update YourTomo pet"
+          git push
