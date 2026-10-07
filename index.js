@@ -136,9 +136,6 @@ As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "
   >
 </picture>
 <br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/${username}/${username}/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
