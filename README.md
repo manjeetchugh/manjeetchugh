@@ -22,7 +22,7 @@
     width="100%"
   >
 </picture>
----
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
 
