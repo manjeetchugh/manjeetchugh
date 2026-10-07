@@ -118,7 +118,7 @@ As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "
 
 ---
 
-### 🐍 My Contribution Graph
+###  My Contribution Graph
 
 <picture>
   <source
