@@ -42,7 +42,7 @@ const readme = `\
     width="100%"
   >
 </picture>
----
+<br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
 
@@ -120,6 +120,22 @@ As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "
 
 ### 🐍 My Contribution Graph
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet-light.svg"
+  >
+  <img
+    alt="my github pet"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet.svg"
+    width="100%"
+  >
+</picture>
+<br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/${username}/${username}/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 </p>
