@@ -26,18 +26,11 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
 
-- 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (AI & IoT)**
-- 🤖 Interested in **Artificial Intelligence, emerging technologies and open source**
-- 🌱 Currently learning **C and Python** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
-- 🏁 I like to play Table-Tennis,Chess and 8-ball Pool
-- ♟️ We can connect to play some games of chess <img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="35" alt="Spinning Chess Board" />
-
-
-
-
+-🎓 B.Tech student in **Electronics and Communication** Engineering (AI & IoT)  
+-🤖 Exploring **AI**, embedded systems, and open source  
+-🌱 Learning **C** and **Python** by building projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 
 ---
-
 ### 🛠️ Languages & Tools
 
 <p align="center">
@@ -116,23 +109,6 @@ As of ⏰ 7-Oct-2026
 </picture>
 <br>
 
-
----
-
-### 💡 Currently Exploring
-
-
-
-- 🐍 C and Python programming
-- 🤖 Artificial Intelligence and Machine Learning
-- 📡 Electronics and the Internet of Things
-- 🌐 Web technologies and software development
-- 🌍 Open-source projects and developer tools
-- 🧠 Always curious about how things work and how technology can be improved
-
-
----
-
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" /> A Quote to Think About
 
 <a href="https://github.com/marketplace/actions/quote-readme">
@@ -143,19 +119,21 @@ As of ⏰ 7-Oct-2026
 
 ---
 
-### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="29" /> A Pinch of Humour
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api" alt="Random programming joke" />
-</p>
+
+### 🎮 Outside of Coding
+
+I enjoy playing table tennis, chess, and 8-ball pool. Feel free to connect for a game of chess!  
+<img src="https://media.giphy.com/media/ms3yqSf67KQjnXm6kN/giphy.gif" width="35" alt="Spinning Chess Board" />
+
+
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" alt="Footer" />
+  <b>Thanks for stopping by! ✨</b>
 </p>
 
 <p align="center">
-  <b>Thanks for visiting my profile! ✨</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" alt="Footer" />
 </p>
-
