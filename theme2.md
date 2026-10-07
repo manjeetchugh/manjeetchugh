@@ -27,6 +27,14 @@
 <br>
 
 
+### <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="29" /> A Pinch of Humour
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Random programming joke" />
+</p>
+
+---
+
 
 
 
