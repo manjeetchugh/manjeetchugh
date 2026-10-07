@@ -99,6 +99,22 @@ As of ⏰ 7-Oct-2026
 ---
 
 ### 🐍 My Contribution Graph
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph-light.svg"
+  >
+  <img
+    alt="my github pet"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph.svg"
+    width="100%"
+  >
+</picture>
+<br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
