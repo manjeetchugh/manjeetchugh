@@ -26,7 +26,7 @@ const readme = `\
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 <br>
-
+Meet **Typo**, my pixel-sized mischief-maker, prowling through my README and leaving a little chaos in his wake.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
