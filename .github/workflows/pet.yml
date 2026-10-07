@@ -60,6 +60,15 @@ jobs:
               | "\(.date): \(.contributionCount)"
             '
 
+      - name: Debug GitHub events
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "Recent events for manjeetchugh:"
+          gh api /users/manjeetchugh/events/public \
+            --jq '.[] | "\(.created_at) | \(.type) | \(.repo.name)"' \
+            | head -50
+
       - name: Generate YourTomo pet
         uses: prsdx/github-pet@v1
         with:
