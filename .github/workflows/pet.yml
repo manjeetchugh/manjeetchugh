@@ -27,11 +27,11 @@ jobs:
           echo "Expected India time:"
           TZ=Asia/Kolkata date
 
-          - name: Debug GitHub contribution data
+      - name: Debug GitHub contribution data
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
-          echo "Checking GitHub API..."
+          echo "GitHub contribution data for manjeetchugh:"
 
           gh api graphql \
             -f query='
