@@ -98,7 +98,7 @@ As of ⏰ 7-Oct-2026
 
 ---
 
-### 🐍 My Contribution Graph
+### My Contribution Graph
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -116,9 +116,6 @@ As of ⏰ 7-Oct-2026
 </picture>
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
-</p>
 
 ---
 
