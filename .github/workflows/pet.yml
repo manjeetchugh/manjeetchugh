@@ -27,6 +27,39 @@ jobs:
           echo "Expected India time:"
           TZ=Asia/Kolkata date
 
+          - name: Debug GitHub contribution data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "Checking GitHub API..."
+
+          gh api graphql \
+            -f query='
+              query($login: String!) {
+                user(login: $login) {
+                  login
+                  contributionsCollection {
+                    contributionCalendar {
+                      totalContributions
+                      weeks {
+                        contributionDays {
+                          date
+                          contributionCount
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            ' \
+            -f login="manjeetchugh" \
+            --jq '
+              .data.user.contributionsCollection.contributionCalendar
+              | .weeks[].contributionDays[]
+              | select(.contributionCount > 0)
+              | "\(.date): \(.contributionCount)"
+            '
+
       - name: Generate YourTomo pet
         uses: prsdx/github-pet@v1
         with:
