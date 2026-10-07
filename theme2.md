@@ -35,6 +35,17 @@
 
 ---
 
+### 💡 Currently Exploring
+
+
+
+- 🐍 C and Python programming
+- 🤖 Artificial Intelligence and Machine Learning
+- 📡 Electronics and the Internet of Things
+- 🌐 Web technologies and software development
+- 🌍 Open-source projects and developer tools
+- 🧠 Always curious about how things work and how technology can be improved
+
 
 
 
