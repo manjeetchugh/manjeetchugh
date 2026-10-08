@@ -100,15 +100,14 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 </td>
 
 </tr> </table>
----
-
+<br>
 ### ⏳ Year Progress
 
 **${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)}%**
 
 As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "-" + new Date().getFullYear()}
 
----
+<br>
 
 ###  My Contribution Graph
 
