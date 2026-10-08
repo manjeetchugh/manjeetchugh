@@ -25,10 +25,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40" /> About Me
--
--🎓 B.Tech student in **Electronics and Communication** Engineering (AI & IoT)  
--🤖 Exploring **AI**, embedded systems, and open source  
--🌱 Learning **C** and **Python** by building projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
+- 🎓 B.Tech student in **Electronics and Communication** Engineering (AI & IoT)  
+- 🤖 Exploring **AI**, embedded systems, and open source  
+- 🌱 Learning **C** and **Python** by building projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
 ---
 
 ### 🛠️ Languages & Tools
