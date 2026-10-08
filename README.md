@@ -100,11 +100,11 @@ As of ⏰ 8-Oct-2026
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet-light.svg"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph-light.svg"
   >
   <img
     alt="my github pet"
-    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet.svg"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph.svg"
     width="100%"
   >
 </picture>
