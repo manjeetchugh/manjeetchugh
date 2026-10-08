@@ -80,7 +80,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 </td>
 
 </tr> </table>
----
+<br>
 
 ### ⏳ Year Progress
 
@@ -88,7 +88,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 
 As of ⏰ 8-Oct-2026
 
----
+<br>
 
 ###  My Contribution Graph
 
