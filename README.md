@@ -1,6 +1,5 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh  <a href="linkedin.com/manjeetchugh" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" /></a>
 
-TEST2
 <p align="center">
   <img src="./assets/profile-views.svg" alt="" />
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -30,8 +29,8 @@ Meet <strong>Typo</strong> my pixel-sized mischief-maker, prowling through my RE
 -🎓 B.Tech student in **Electronics and Communication** Engineering (AI & IoT)  
 -🤖 Exploring **AI**, embedded systems, and open source  
 -🌱 Learning **C** and **Python** by building projects <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35" alt="Developer animation" />
-
 ---
+
 ### 🛠️ Languages & Tools
 
 <p align="center">
@@ -86,13 +85,14 @@ Meet <strong>Typo</strong> my pixel-sized mischief-maker, prowling through my RE
 
 ### ⏳ Year Progress
 
-**{ ██████████████████████▁▁▁▁▁▁▁▁ } 76.48%**
+**{ ███████████████████████▁▁▁▁▁▁▁ } 76.75%**
 
-As of ⏰ 7-Oct-2026
+As of ⏰ 8-Oct-2026
 
 ---
 
-### My Contribution Graph
+###  My Contribution Graph
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -100,26 +100,26 @@ As of ⏰ 7-Oct-2026
   >
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph-light.svg"
+    srcset="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet-light.svg"
   >
   <img
     alt="my github pet"
-    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/graph.svg"
+    src="https://raw.githubusercontent.com/manjeetchugh/manjeetchugh/master/dist/pet.svg"
     width="100%"
   >
 </picture>
 <br>
 
+---
+
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="25" /> A Quote to Think About
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Two years from now, spam will be solved.”— Bill Gates, 2004   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
-
 ---
-
 
 
 ### 🎮 Outside of Coding
@@ -138,3 +138,4 @@ I enjoy playing table tennis, chess, and 8-ball pool. Feel free to connect for a
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" alt="Footer" />
 </p>
+
