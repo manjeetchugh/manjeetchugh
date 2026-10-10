@@ -83,9 +83,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ███████████████████████▁▁▁▁▁▁▁ } 77.03%**
+**{ ███████████████████████▁▁▁▁▁▁▁ } 77.30%**
 
-As of ⏰ 9-Oct-2026
+As of ⏰ 10-Oct-2026
 
 <br>
 
@@ -114,7 +114,7 @@ As of ⏰ 9-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 ---
