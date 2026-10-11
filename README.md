@@ -83,9 +83,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ███████████████████████▁▁▁▁▁▁▁ } 77.30%**
+**{ ███████████████████████▁▁▁▁▁▁▁ } 77.57%**
 
-As of ⏰ 10-Oct-2026
+As of ⏰ 11-Oct-2026
 
 <br>
 
@@ -114,7 +114,7 @@ As of ⏰ 10-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Before software should be reusable, it should be usable.”— Ralph Johnson  ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 ---
