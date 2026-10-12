@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
 <br>
-Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my README and leaving a little chaos in his wake
+Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my README and leaving a little chaos in his wake.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -83,9 +83,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ███████████████████████▁▁▁▁▁▁▁ } 77.57%**
+**{ ███████████████████████▁▁▁▁▁▁▁ } 77.85%**
 
-As of ⏰ 11-Oct-2026
+As of ⏰ 12-Oct-2026
 
 <br>
 
@@ -114,7 +114,7 @@ As of ⏰ 11-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 ---
