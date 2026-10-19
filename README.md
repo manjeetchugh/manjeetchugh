@@ -83,9 +83,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ███████████████████████▁▁▁▁▁▁▁ } 79.48%**
+**{ ███████████████████████▁▁▁▁▁▁▁ } 79.75%**
 
-As of ⏰ 18-Oct-2026
+As of ⏰ 19-Oct-2026
 
 <br>
 
@@ -114,7 +114,7 @@ As of ⏰ 18-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The Space Invaders game was intended to always be played at the same speed, but as you destroy more aliens, the computer can render faster. This is why the aliens speed up as you near the end of the level.❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 ---
