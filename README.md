@@ -1,14 +1,11 @@
 # Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /> I am Manjeet Chugh  <a href="linkedin.com/manjeetchugh" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" /></a>
 
 <p align="center">
-  <img src="./assets/profile-views.svg" alt="" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat&abbreviated=true" />
-</p>
+<p align="center"> 
   <br>
-
 Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my README and leaving a little chaos in his wake.
 <picture>
   <source
