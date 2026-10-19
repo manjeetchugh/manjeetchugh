@@ -5,7 +5,10 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
-<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat&abbreviated=true" />
+</p>
+  <br>
+
 Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my README and leaving a little chaos in his wake.
 <picture>
   <source
