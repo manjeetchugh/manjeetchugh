@@ -4,8 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
 </p>
-<p align="center"> 
-  <br>
+<br>
 Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my README and leaving a little chaos in his wake.
 <picture>
   <source
@@ -83,9 +82,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ███████████████████████▁▁▁▁▁▁▁ } 79.75%**
+**{ ████████████████████████▁▁▁▁▁▁ } 80.03%**
 
-As of ⏰ 19-Oct-2026
+As of ⏰ 20-Oct-2026
 
 <br>
 
@@ -114,9 +113,10 @@ As of ⏰ 19-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In an information economy, the most valuable company assets drive themselves home every night.  If they are not treated well, they do not return the next morning.”— Peter Chang  ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
+
 ---
 
 
