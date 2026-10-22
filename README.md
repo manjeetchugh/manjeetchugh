@@ -82,9 +82,9 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 <br>
 ### ⏳ Year Progress
 
-**{ ████████████████████████▁▁▁▁▁▁ } 80.30%**
+**{ ████████████████████████▁▁▁▁▁▁ } 80.58%**
 
-As of ⏰ 21-Oct-2026
+As of ⏰ 22-Oct-2026
 
 <br>
 
@@ -113,7 +113,7 @@ As of ⏰ 21-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
