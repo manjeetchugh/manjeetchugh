@@ -81,11 +81,13 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
     <td align="left" valign="middle">
       
      
-   ### 🌱 My Coding Journey
+### 🌳 My One-of-a-Kind Github Bonsai
 
-   Add your text here. You can describe your coding philosophy,
-      current projects, favorite technologies, or how your GitHub
-      contributions help your coding bonsai grow.
+My bonsai is a little windswept tree with a crooked trunk and a tiny shoot at the top. It’s still growing, and honestly, that’s what I like about it.
+
+It reminds me of how I code. I jump between C, Python, JavaScript, and TypeScript, mess around with new ideas, and keep exploring things like AI and embedded systems. Not everything follows a straight path, and neither does this tree.
+
+It may not have a huge canopy yet, but there’s plenty of room for it to grow. Just like my projects, it’ll take shape over time 🌱
 
       
 
