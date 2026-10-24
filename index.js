@@ -101,7 +101,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
     <td align="left" valign="middle">
       
      
-### 🌳 My GitHub Bonsai
+### 🌳 My One-of-a-Kind Github Bonsai
 
 My bonsai is a little windswept tree with a crooked trunk and a tiny shoot at the top. It’s still growing, and honestly, that’s what I like about it.
 
