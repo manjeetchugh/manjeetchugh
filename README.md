@@ -67,7 +67,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
     <td align="center" valign="middle" width="320">
       <img
   src="./output/bonsai-growth.gif"
-  width="300"
+  width="300" 
   alt="My git-bonsai"
 />
       <br>
