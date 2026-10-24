@@ -40,45 +40,58 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 ---
 
 ### <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="25" /> My GitHub Stats
-<table cellspacing="0"> <tr> <td align="center" valign="middle">
-  <p>
-    <img
-      src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"
-      alt="GitHub Stats"
-    />
 
-  <br>
-
-  <img
-      src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly"
-      alt="GitHub Streak Stats"
-    />
-  </p>
-
-</td>
-
-<td align="center" valign="middle">
-
-  <p>
-    <img
-      src="./output/bonsai-growth.gif"
-      width="300"
-      alt="My git-bonsai"
-    />
-
-  <br>
-
-  <a href="https://github.com/egorthinks/git-bonsai">
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="top" width="50%">
       <img
-        src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f"
-        alt="Grown with git-bonsai"
+        src="https://github-stats-extended.vercel.app/api?username=manjeetchugh&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=transparent"
+        alt="GitHub Stats"
+        width="100%"
       />
-    </a>
-  </p>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img
+        src="https://streak-stats.demolab.com?user=manjeetchugh&theme=transparent&timezone=Asia%2FKolkata&mode=weekly"
+        alt="GitHub Streak Stats"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
-</td>
+<br>
 
-</tr> </table>
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center" valign="middle" width="320">
+      <img
+  src="./output/bonsai-growth.gif"
+  width="300"
+  alt="My git-bonsai"
+/>
+      <br>
+      <a href="https://github.com/egorthinks/git-bonsai">
+        <img
+          src="https://img.shields.io/badge/🌳_grown_with-git--bonsai-2ea44f"
+          alt="Grown with git-bonsai"
+        />
+      </a>
+    </td>
+    <td align="left" valign="middle">
+      
+     
+   ### 🌱 My Coding Journey
+
+   Add your text here. You can describe your coding philosophy,
+      current projects, favorite technologies, or how your GitHub
+      contributions help your coding bonsai grow.
+
+      
+
+   </td>
+  </tr>
+</table>
 <br>
 ### ⏳ Year Progress
 
