@@ -67,7 +67,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
     <td align="center" valign="middle" width="320">
       <img
   src="./output/bonsai-growth.gif"
-  width="300" 
+  width="300"
   alt="My git-bonsai"
 />
       <br>
@@ -87,8 +87,11 @@ My bonsai is a little windswept tree with a crooked trunk and a tiny shoot at th
 
 It reminds me of how I code. I jump between C, Python, JavaScript, and TypeScript, mess around with new ideas, and keep exploring things like AI and embedded systems. Not everything follows a straight path, and neither does this tree.
 
-It may not have a huge canopy yet, but there’s plenty of room for it to grow. Just like my projects, it’ll take shape over time 🌱
+It may not have a huge canopy yet, but there’s plenty of room for it to grow. Just like my projects, it’ll take shape over time.
 
+**Still learning. Still experimenting. Still growing.** 🌱
+
+  
       
 
    </td>
@@ -97,9 +100,9 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 <br>
 ### ⏳ Year Progress
 
-**{ ████████████████████████▁▁▁▁▁▁ } 81.12%**
+**{ ████████████████████████▁▁▁▁▁▁ } 81.40%**
 
-As of ⏰ 24-Oct-2026
+As of ⏰ 25-Oct-2026
 
 <br>
 
@@ -128,7 +131,7 @@ As of ⏰ 24-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
