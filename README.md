@@ -100,9 +100,9 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 <br>
 ### ⏳ Year Progress
 
-**{ ████████████████████████▁▁▁▁▁▁ } 81.67%**
+**{ ████████████████████████▁▁▁▁▁▁ } 81.95%**
 
-As of ⏰ 26-Oct-2026
+As of ⏰ 27-Oct-2026
 
 <br>
 
@@ -131,7 +131,7 @@ As of ⏰ 26-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Passwords are like underwear: you don’t let people see it, you should change it very often, and you shouldn’t share it with strangers.”— Chris Pirillo   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
