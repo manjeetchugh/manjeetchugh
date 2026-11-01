@@ -100,9 +100,9 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 <br>
 ### ⏳ Year Progress
 
-**{ ████████████████████████▁▁▁▁▁▁ } 83.05%**
+**{ ████████████████████████▁▁▁▁▁▁ } 83.32%**
 
-As of ⏰ 31-Oct-2026
+As of ⏰ 1-Nov-2026
 
 <br>
 
@@ -131,7 +131,7 @@ As of ⏰ 31-Oct-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Your most unhappy customers are your greatest source of learning.”— Bill Gates   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
