@@ -131,7 +131,7 @@ As of ⏰ 1-Nov-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The important thing is to never stop questioning.❞</i>
+<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
