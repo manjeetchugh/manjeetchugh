@@ -100,9 +100,9 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 <br>
 ### ⏳ Year Progress
 
-**{ ████████████████████████▁▁▁▁▁▁ } 83.32%**
+**{ █████████████████████████▁▁▁▁▁ } 83.60%**
 
-As of ⏰ 1-Nov-2026
+As of ⏰ 2-Nov-2026
 
 <br>
 
@@ -131,7 +131,7 @@ As of ⏰ 1-Nov-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“I’m not one of those who think Bill Gates is the devil.  I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.”— Nicholas Petreley   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
