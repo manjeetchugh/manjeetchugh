@@ -118,11 +118,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
   </tr>
 </table>
 <br>
-### ⏳ Year Progress
 
-**${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)}%**
-
-As of ⏰ ${(new Date().getDate()) + "-" + monthNames[new Date().getMonth()] + "-" + new Date().getFullYear()}
 
 <br>
 
