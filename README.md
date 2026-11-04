@@ -98,13 +98,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
   </tr>
 </table>
 <br>
-### ⏳ Year Progress
 
-**{ █████████████████████████▁▁▁▁▁ } 84.15%**
-
-As of ⏰ 4-Nov-2026
-
-<br>
 
 ###  My Contribution Graph
 
