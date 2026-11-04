@@ -100,9 +100,9 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 <br>
 ### ⏳ Year Progress
 
-**{ █████████████████████████▁▁▁▁▁ } 83.89%**
+**{ █████████████████████████▁▁▁▁▁ } 84.15%**
 
-As of ⏰ 3-Nov-2026
+As of ⏰ 4-Nov-2026
 
 <br>
 
@@ -131,7 +131,7 @@ As of ⏰ 3-Nov-2026
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.”— Kevin Mitnick   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
