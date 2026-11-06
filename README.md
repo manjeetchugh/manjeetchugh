@@ -1,4 +1,5 @@
 # Hi there!  I am Manjeet Chugh  
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=manjeetchugh&style=flat&abbreviated=true" />
   <img src="https://img.shields.io/github/followers/manjeetchugh?style=flat-square&color=blue&label=Followers" alt="Followers" />
@@ -126,7 +127,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“There is only one problem with common sense; it’s not very common.”— Milt Bryce   ❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
