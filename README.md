@@ -127,7 +127,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The important thing is to never stop questioning.❞</i>
+<i>❝The Ultra NVidia GeForce 6800 video card was built with 222 million transistors and considered among the best todate.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
