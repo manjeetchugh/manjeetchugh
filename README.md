@@ -127,7 +127,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The world is one big data problem.”— Andrew McAfee❞</i>
+<i>❝The important thing is to never stop questioning.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
