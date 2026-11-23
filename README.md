@@ -127,7 +127,7 @@ It may not have a huge canopy yet, but there’s plenty of room for it to grow. 
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The important thing is to never stop questioning.❞</i>
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
