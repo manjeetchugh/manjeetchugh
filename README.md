@@ -33,7 +33,7 @@ Meet <strong>Typo</strong> my pixelated mischief-maker, prowling through my READ
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,html,css,js,git,github,vscode" alt="Languages and tools" />
+    <img src="https://skillicons.dev/icons?i=c,python,js,ts,html,css,svg,git,github,replit,vscode,arduino" alt="Languages and tools" />
   </a>
 </p>
 
